@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ResImages/logo.png</file>
+        <file>ResImages/MAbout.png</file>
+        <file>ResImages/MAddSong.png</file>
+        <file>ResImages/MBGMusicplayer_ui2.jpg</file>
+        <file>ResImages/MBGMusicplayer_ui3.png</file>
+        <file>ResImages/MClose.ico</file>
+        <file>ResImages/MDriect.png</file>
+        <file>ResImages/MMusicLogo.png</file>
+        <file>ResImages/MNext.png</file>
+        <file>ResImages/MNoSound.png</file>
+        <file>ResImages/MOpenSong.png</file>
+        <file>ResImages/MPause.png</file>
+        <file>ResImages/MPlay.png</file>
+        <file>ResImages/MPrevious.png</file>
+        <file>ResImages/MQuit.png</file>
+        <file>ResImages/MSerach.png</file>
+        <file>ResImages/MSound.png</file>
+        <file>ResImages/MStops.png</file>
+        <file>ResImages/Preious.png</file>
+        <file>ResImages/view.png</file>
+    </qresource>
+</RCC>
